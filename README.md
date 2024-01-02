@@ -8,6 +8,7 @@ https://gist.github.com/pavelkryl/cd441f8b29d00290ed12f5e1234a00d1
 
 ## Hodnocení
 
+- známka váhy 4
 - čitelnost kódu
 - použití správných konstruktů a datových struktur jazyka (dataclassy, mapy, seznamy - to co vám zajistí bezpracnou implementaci)
 - bez mypy errorů (!)
